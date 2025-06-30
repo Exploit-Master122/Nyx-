@@ -15,3 +15,5 @@
 [![Deploy with Vercel](https://binbashbanana.github.io/deploy-buttons/buttons/remade/vercel.svg)](https://vercel.com/new/clone?repositoryurl=https://github.com/chompypotato/Nyx) 
 <a href="https://render.com/deploy?repo=https://github.com/chompypotato/Nyx">
 <img src="https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/main/buttons/remade/render.svg"></img></a>
+
+***CREDITS TO @CHOMPYPOTATO***
